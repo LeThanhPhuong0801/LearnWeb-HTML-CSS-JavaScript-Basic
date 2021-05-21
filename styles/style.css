@@ -1,0 +1,21 @@
+body{
+    width: 100%;
+    height: 100%;
+}
+
+.top{
+    display: flex;
+}
+
+.top-content{
+    flex: 1;
+}
+
+.top-sub{
+    background: #241381;
+    flex-basis: 40%;
+}
+
+img{
+    max-width: 100%;
+}
